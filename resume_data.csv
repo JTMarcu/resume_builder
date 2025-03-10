@@ -1,0 +1,41 @@
+section,subsection,content
+personal_info,name,Jane Doe
+personal_info,location,"New York, NY"
+personal_info,phone,(123) 456-7890
+personal_info,email,jane.doe@example.com
+personal_info,linkedin,linkedin.com/in/jane-doe
+personal_info,github,github.com/janedoe
+personal_info,target_roles,"Data Scientist, Machine Learning Engineer, Software Developer"
+professional_summary,summary,"Experienced data scientist with a strong background in machine learning and software development. Certified in Data Science and Machine Learning. Proficient in Python, SQL, and data visualization tools. Proven ability to deliver data-driven solutions and optimize processes."
+technical_skills,core,Python | Flask | Pandas | NumPy | Scikit-learn | ReportLab | SQL | BigQuery | Tableau | AWS | EC2 | S3 | Git | HTML/CSS/JavaScript | REST APIs
+professional_experience,Company A,"Data Scientist | Company A | 2015-2021
+- Developed machine learning models to predict customer behavior, increasing sales by 15%.
+- Led a team of data analysts to optimize marketing strategies, resulting in a 20% reduction in costs.
+- Implemented data pipelines and ETL processes to streamline data collection and analysis."
+professional_experience,Freelance,"Freelance Data Scientist | 2021-Present
+- Built a recommendation system for an e-commerce platform, improving user engagement by 25%.
+- Developed a chatbot using natural language processing techniques to enhance customer support.
+- Created interactive dashboards for clients to visualize key business metrics."
+certifications,completed,"Certified Data Scientist | 2020
+Certified Machine Learning Engineer | 2021
+Certified Big Data Professional | 2022"
+certifications,in_progress,"Certifications (In Progress):
+- AWS Certified Solutions Architect (Expected Dec 2023)
+- Google Cloud Professional Data Engineer (Expected Jan 2024)
+- Microsoft Certified: Azure Data Scientist Associate (Expected Feb 2024)"
+projects,Automation Tool,"E-commerce Recommendation System
+- Developed a recommendation system using collaborative filtering and matrix factorization techniques.
+- Improved user engagement and sales by providing personalized product recommendations.
+- GitHub: github.com/janedoe/ecommerce-recommendation"
+projects,Automation Tool,"Customer Support Chatbot
+- Created a chatbot using natural language processing techniques to handle customer inquiries.
+- Reduced response time and improved customer satisfaction.
+- GitHub: github.com/janedoe/customer-support-chatbot"
+projects,Machine Learning,"Sales Prediction Model
+- Built a machine learning model to predict sales using historical data and external factors.
+- Achieved 90% accuracy in sales forecasts, enabling better inventory management.
+- GitHub: github.com/janedoe/sales-prediction"
+projects,Data Analysis,"Marketing Analytics Dashboard
+- Developed an interactive dashboard to visualize marketing campaign performance.
+- Provided insights into customer behavior and campaign effectiveness.
+- GitHub: github.com/janedoe/marketing-analytics-dashboard"
